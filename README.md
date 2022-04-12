@@ -1,5 +1,6 @@
 # Dynamic systems
-Dynamics systems stadies 
+## Dynamics systems stadies 
+
 These studies are done to understand dynamic systems in part.
 
 On the other hand a study is made on the satiety hormone called leptin and on the resistance to leptin:
